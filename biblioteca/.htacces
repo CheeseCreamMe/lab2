@@ -1,4 +1,0 @@
-Options All -Indexes
-
-RewriteEngine On
-RewriteRule ^([a-zaA-Z0-9/]+)$ index.php?controller=$1
