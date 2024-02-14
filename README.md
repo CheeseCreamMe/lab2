@@ -1,6 +1,6 @@
 <H1>Lab 2</H1>
 <h2>contexto</h2>
-aun no sabia del manejo de git y derepositorios por ello mi primer commit fue subir los archivos de manera no practica
+Como nota, el primer commit de este proyecto podría no haber seguido las mejores prácticas debido a mi falta de familiaridad con Git y la gestión de repositorios en ese momento. Aquel commit se realizó con el propósito de subir los archivos, sin seguir un enfoque práctico. Sin embargo, desde entonces he aprendido y mejorado mi enfoque.
 <h2>Languejes</h2>
 <p><strong>JS:</strong></p>
 <p><strong>PHP:</strong></p>
